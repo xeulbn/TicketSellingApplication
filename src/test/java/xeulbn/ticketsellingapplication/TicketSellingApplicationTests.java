@@ -1,4 +1,4 @@
-package io.github.xeulbn.ticketsellingapplication;
+package xeulbn.ticketsellingapplication;
 
 import java.sql.Connection;
 import java.sql.SQLException;
