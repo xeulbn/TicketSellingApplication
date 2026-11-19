@@ -1,6 +1,6 @@
 # TicketSellingApplication
 
-조영호의 『오브젝트』를 읽고, 1장의 티켓 판매 예제를 Spring MVC 서버로 직접 구현하며 객체지향 설계를 연습하는 개인 프로젝트입니다.
+조영호님의 『오브젝트』를 읽고, 1장의 티켓 판매 예제를 Spring MVC 서버로 직접 구현하며 객체지향 설계를 연습하는 개인 프로젝트입니다.
 
 <a href="https://wikibook.co.kr/object/"><img src="docs/objects-cover.jpg" width="160" alt="조영호의 『오브젝트』 표지"></a>
 
