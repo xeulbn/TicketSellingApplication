@@ -1,7 +1,4 @@
-package xeulbn.ticketsellingapplication.ticketoffice.domain;
-
-import xeulbn.ticketsellingapplication.audience.domain.Audience;
-import xeulbn.ticketsellingapplication.ticket.domain.Ticket;
+package xeulbn.ticketsellingapplication.example;
 
 import java.util.ArrayList;
 import java.util.Arrays;

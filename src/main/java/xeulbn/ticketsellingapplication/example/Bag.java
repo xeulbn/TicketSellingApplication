@@ -1,7 +1,4 @@
-package xeulbn.ticketsellingapplication.bag.domain;
-
-import xeulbn.ticketsellingapplication.invitation.domain.Invitation;
-import xeulbn.ticketsellingapplication.ticket.domain.Ticket;
+package xeulbn.ticketsellingapplication.example;
 
 public class Bag {
     private Long amount;

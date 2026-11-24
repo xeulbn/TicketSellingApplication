@@ -1,8 +1,4 @@
-package xeulbn.ticketsellingapplication.ticketseller.domain;
-
-import xeulbn.ticketsellingapplication.audience.domain.Audience;
-import xeulbn.ticketsellingapplication.ticket.domain.Ticket;
-import xeulbn.ticketsellingapplication.ticketoffice.domain.TicketOffice;
+package xeulbn.ticketsellingapplication.example;
 
 public class TicketSeller {
     private TicketOffice ticketOffice;
