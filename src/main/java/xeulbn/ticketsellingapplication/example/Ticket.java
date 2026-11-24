@@ -1,4 +1,4 @@
-package xeulbn.ticketsellingapplication.ticket.domain;
+package xeulbn.ticketsellingapplication.example;
 
 public class Ticket {
 

@@ -1,4 +1,4 @@
-package xeulbn.ticketsellingapplication.invitation.domain;
+package xeulbn.ticketsellingapplication.example;
 
 import java.time.LocalDateTime;
 

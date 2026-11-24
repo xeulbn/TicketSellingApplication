@@ -1,7 +1,4 @@
-package xeulbn.ticketsellingapplication.audience.domain;
-
-import xeulbn.ticketsellingapplication.bag.domain.Bag;
-import xeulbn.ticketsellingapplication.ticket.domain.Ticket;
+package xeulbn.ticketsellingapplication.example;
 
 public class Audience {
     private Bag bag;
